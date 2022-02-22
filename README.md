@@ -36,6 +36,7 @@
     2. Try composer composer dump-autoload if need
     3. php artisan config:cache if need
     4. php artisan clear-compiled if need    
+    5. php artisan passport:install if error occurs "storage\oauth-private.key does not exist or is not readable "
     
 ### Note*
     
